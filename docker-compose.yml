@@ -1,0 +1,4 @@
+hubot:
+  build: .
+  env_file: ./hubot.env
+  restart: always
